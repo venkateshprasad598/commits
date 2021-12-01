@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/venkateshprasad598/commits/issues"
   },
-  "homepage": "https://github.com/venkateshprasad598/commits#readme"
+  "homepage": "https://github.com/venkateshprasad598/commits#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "simple-git": "^2.47.1"
+  }
 }
